@@ -2,7 +2,7 @@
 
 ## Overview
 This is an example of a recorder using esp32.
-
+![body](images/body.jpg)
 ## Parts List
 Only the main parts are described below. 
 - (microcomputer): [ESP32-DevKitC ESP32-WROVER-E](https://www.espressif.com/en/products/devkits/esp32-devkitc/overview)
